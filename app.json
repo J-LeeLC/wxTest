@@ -11,7 +11,7 @@
   "window":{
     "backgroundTextStyle":"dark",
     "navigationBarBackgroundColor": "#3A5FCD",
-    "navigationBarTitleText": "直销车",
+    "navigationBarTitleText": "测试直销车",
     "navigationBarTextStyle":"black",
     "enablePullDownRefresh": true
   },
